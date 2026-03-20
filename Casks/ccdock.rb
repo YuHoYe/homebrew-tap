@@ -1,6 +1,6 @@
 cask "ccdock" do
-  version "1.3.0"
-  sha256 "df2bc784469098d36195609405132eb888f9ba1000a57be9adc72e84d83ffbf0"
+  version "1.4.1"
+  sha256 "90faba489496ab1e0031881acdb972e2cabfb300c811d1457956502204081964"
 
   url "https://github.com/YuHoYe/CCDock/releases/download/v#{version}/CCDock.zip"
   name "CCDock"
